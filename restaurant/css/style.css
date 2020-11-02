@@ -68,7 +68,7 @@ body{
 	color:#686868;
 	font-size:14px;
 	font-family: 'Roboto', sans-serif;
-	line-height:1.80857;
+	line-height:1.60857;
 }
 
 a {
@@ -840,8 +840,8 @@ html, body{ height: 100%; }
 .offer-item img {
     width: 20%;
     float: left;
-    padding: 10px;
-    background: #fff;
+    
+    background:black;
 	border-radius: 50%;
 }
 
